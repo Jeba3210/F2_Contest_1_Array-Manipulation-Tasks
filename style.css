@@ -50,9 +50,9 @@ body button:hover{
     flex-wrap: wrap;  
     /* justify-content: space-evenly;  */
     margin-left: 50px;
-    box-shadow:#0ae2d4 0px 4px 6px,#0ae2d4 0px -12px 30px, #F5DEB3 0px 4px 6px, #F5DEB3 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 .div_button{
     margin-bottom: 50px;
     margin-right: 20px;
+    box-shadow:#0ae2d4 0px 4px 6px,#0ae2d4 0px -12px 30px, #F5DEB3 0px 4px 6px, #F5DEB3 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
